@@ -2,10 +2,10 @@ import firebase from 'firebase';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: 'AIzaSyD-AwU3mloqdniTQwIosf22WY42j7bYAkM',
-    authDomain: 'disneyplus-clone-13e5e.firebaseapp.com',
-    projectId: 'disneyplus-clone-13e5e',
-    storageBucket: 'disneyplus-clone-13e5e.appspot.com',
+    apiKey: 'API_KEY',
+    authDomain: 'AUTH_DOMAIN',
+    projectId: 'PROJECT_ID',
+    storageBucket: 'STORAGE_BUCKET',
     messagingSenderId: '950289126774',
     appId: '1:950289126774:web:9788361b928e1161bb5657',
     measurementId: 'G-D3R12FLWZ2',
